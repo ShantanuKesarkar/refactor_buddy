@@ -147,3 +147,6 @@ Desktop/
 ## 🙋 Support or Questions?
 
 Feel free to open an issue or suggest improvements!
+
+
+Added a temporary key for just test use case in the .env file
